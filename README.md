@@ -23,10 +23,19 @@ var mxKodo = MXkodo{
 ```
 
 <details align="left">
-  <summary><h2><b>⭐</b></h2></summary>
+  <summary><h2><b>🛠️ Projects</b></h2></summary>
+  <p>
+   - [Inventory](https://github.com/MXkodo/inventory) - Service for automation of equipment inventory.
+   - [Cash service](https://github.com/MXkodo/Cash-server) - A pen test of cache utilization.
+   - [SMS](https://github.com/MXkodo/send_sms) -A small library for quick RabbitMQ connectivity.
+   <br>
+  </p>
+</details>
+
+<details align="left">
+  <summary><h2><b>Stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MXkodo&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
   </p>
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MXkodo&theme=dark&background=000000)](https://git.io/streak-stats)">
 </details>
