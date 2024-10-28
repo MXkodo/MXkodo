@@ -22,15 +22,18 @@ var mxKodo = MXkodo{
 }
 ```
 
-<details align="left">
-  <summary><h2><b>🛠️ Projects</b></h2></summary>
-  <p>
-   - [Inventory](https://github.com/MXkodo/inventory) - Service for automation of equipment inventory.
-   - [Cash service](https://github.com/MXkodo/Cash-server) - A pen test of cache utilization.
-   - [SMS](https://github.com/MXkodo/send_sms) -A small library for quick RabbitMQ connectivity.
-   <br>
-  </p>
-</details>
+<div align="center">
+🛠️ Here are some of my projects
+</div>
+<div align="center">
+
+| Project      | Description                                      | Link                                                  |
+| ------------ | ------------------------------------------------ | ----------------------------------------------------- |
+| Inventory    | Service for automation of equipment inventory.   | [View Project](https://github.com/MXkodo/inventory)   |
+| Cash service | A pen test of cache utilization.                 | [View Project](https://github.com/MXkodo/Cash-server) |
+| SMS          | A small library for quick RabbitMQ connectivity. | [View Project](https://github.com/MXkodo/send_sms)    |
+
+</div>
 
 <details align="left">
   <summary><h2><b>Stats</b></h2></summary>
