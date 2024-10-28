@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Welcome to my profile! My name is MXkodo, what's yours? </h1>
+<h1 align="center">Hi there 👋, my name is MXkodo, what's yours? </h1>
 
 <h2 align="center">I'm Go software developer </h1>
 
