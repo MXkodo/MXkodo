@@ -28,4 +28,5 @@ var mxKodo = MXkodo{
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MXkodo&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
   </p>
+  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MXkodo&theme=dark&background=000000)](https://git.io/streak-stats)">
 </details>
