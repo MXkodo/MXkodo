@@ -22,10 +22,9 @@ var mxKodo = MXkodo{
 }
 ```
 
-<div align="center">
-🛠️ Here are some of my projects
-</div>
-<div align="center">
+<details align="left">
+  <summary><h2><b>🛠️ Projects</b></h2></summary>
+  <div align="center">
 
 | Project      | Description                                      | Link                                                  |
 | ------------ | ------------------------------------------------ | ----------------------------------------------------- |
@@ -33,7 +32,8 @@ var mxKodo = MXkodo{
 | Cash service | A pen test of cache utilization.                 | [View Project](https://github.com/MXkodo/Cash-server) |
 | SMS          | A small library for quick RabbitMQ connectivity. | [View Project](https://github.com/MXkodo/send_sms)    |
 
-</div>
+  </div>
+</details>
 
 <details align="left">
   <summary><h2><b>Stats</b></h2></summary>
