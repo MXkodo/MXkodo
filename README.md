@@ -16,7 +16,7 @@ var mxKodo = MXkodo{
     Tools:     []string{"Docker", "PostgreSQL", "RabbitMQ", "Redis", "Docker Compose", "React"},
     Projects:  []string{"backend solutions", "Telegram bots", "mini-apps", "UserBots"},
     Studies:   "Information Security at university",
-    Workplace: "startup",
+    Workplace: "ITooLabs",
     Focus:     "creating backend solutions and developing bots",
     Challenge: "solve at least 10 hard problems from LeetCode",
 }
