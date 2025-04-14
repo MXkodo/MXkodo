@@ -13,7 +13,7 @@
 ```GO
 var mxKodo = MXkodo{
     Code:      []string{"Go", "JS", "Solidity"},
-    Tools:     []string{"Docker", "PostgreSQL", "RabbitMQ", "Redis", "Docker Compose", "React"},
+    Tools:     []string{"Docker", "PostgreSQL", "RabbitMQ", "NUTS", "Redis", "Docker Compose", "React"},
     Projects:  []string{"backend solutions", "Telegram bots", "mini-apps", "UserBots"},
     Studies:   "Information Security at university",
     Workplace: "ITooLabs",
